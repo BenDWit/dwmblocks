@@ -7,14 +7,14 @@ static const Block blocks[] = {
 	{"",	"sb-spotify",	5,	4},
 /*	{"",	"sb-pacpackages",	0,	8},*/
 	/*{"",	"sb-news",		0,	6},*/
-/*	{"",	"sb-price xmr \"Monero\" 🔒",			9000,	24}, */
+	{"",	"sb-price xmr \"Monero\" 🔒",			9000,	24}, 
 	/*{"",	"sb-torrent",	20,	7},*/
 	{"",	"sb-memory",	10,	14}, 
 	{"",	"sb-cpu",		10,	18}, 
 	/* {"",	"sb-moonphase",	18000,	17}, */
-	/*{"",	"sb-doppler",	0,	13},*/
+	{"",	"sb-doppler",	0,	13},
 	/*{"",	"sb-mailbox",	180,	12},*/
-/*	{"",	"sb-nettraf",	1,	16},*/
+	{"",	"sb-nettraf",	1,	16},
 	{"",	"sb-volume",	0,	10},
 	{"",	"sb-battery",	5,	3},
 	{"",	"sb-clock",	60,	1},
